@@ -1,0 +1,12 @@
+dbdefinitions.py
+-compose conection string?
+
+graphpermissions.py
+->vše jde do strawberry na base permission
+
+_graphpermissons.py
+->jen DEMO
+
+main.py
+->logging  -legit knihovna na logovani
+->logging.handlers
